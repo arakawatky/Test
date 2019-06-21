@@ -1,2 +1,4 @@
 hello git!
 Hello World;
+Today is a raining day.
+Kamehameha
